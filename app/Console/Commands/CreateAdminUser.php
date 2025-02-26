@@ -37,6 +37,6 @@ class CreateAdminUser extends Command
         // Asigna el rol "admin" al usuario
         $user->assignRole($adminRole);
 
-        $this->info('Usuario administrador creado exitosamente.');
+        $this->info('Usuario administrador creado exitosamente. 🤙');
     }
 }

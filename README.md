@@ -16,7 +16,7 @@ Para ejecutar este proyecto, asegúrate de tener instalados los siguientes requi
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/catalogo-productos.git
+   git clone https://github.com/EcrDevelopment/catalogo-productos.git
    cd catalogo-productos
    ```
 2. Instala las dependencias de PHP:

@@ -58,7 +58,7 @@ Para ejecutar este proyecto, asegúrate de tener instalados los siguientes requi
 
 Para crear un usuario administrador, ejecuta el siguiente comando:
 ```sh
-php artisan create:admin
+php artisan make:admin
 ```
 Esto te pedirá un correo y contraseña para el nuevo usuario administrador.
 
